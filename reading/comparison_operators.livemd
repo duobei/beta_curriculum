@@ -94,7 +94,7 @@ number < atom < reference < function < port < pid < tuple < map < list < bitstri
 You'll notice several data types that you may not be familiar with above. Don't worry. There's no need to memorize this sorting order nor know all of these data types.
 
 ```elixir
-"" > 1
+"" > 1 > 2
 ```
 
 ### Strictly Equals
